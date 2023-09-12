@@ -1,4 +1,7 @@
-# MUSIQ: Multi-Scale Image Quality Transformer
+# MUSIQ: Multi-Scale Image Quality Transformer 공부
+
+## ORIGIN From https://github.com/anse3832/MUSIQ
+
 Unofficial pytorch implementation of the paper "MUSIQ: Multi-Scale Image Quality Transformer"
 (paper link: https://arxiv.org/abs/2108.05997)
 
